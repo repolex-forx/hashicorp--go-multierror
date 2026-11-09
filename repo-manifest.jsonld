@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/hashicorp/go-multierror/commit/1fda6a371bee4201492c5a384a44d2726751d81a",
       "git:hexsha": "1fda6a371bee4201492c5a384a44d2726751d81a",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/hashicorp/go-multierror/commit/886a7fbe3eb1c874d46f623bfa70af45f425b3d1",
