@@ -1,0 +1,11 @@
+{
+  "org": "hashicorp",
+  "repo": "go-multierror",
+  "versions": [
+    {
+      "commit": "1fda6a371bee4201492c5a384a44d2726751d81a",
+      "tag": "",
+      "parsed_at": "2026-11-09T23:06:41.471147+00:00"
+    }
+  ]
+}
